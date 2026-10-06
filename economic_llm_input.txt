@@ -1,0 +1,37 @@
+
+ECONOMIC DATA SUMMARY
+
+Historical data cutoff: December 31, 2023
+Forecast period: January 1, 2024 to December 31, 2024
+
+U.S. GDP GROWTH:
+Historical starting quarterly growth: 1.15%
+Historical ending quarterly growth: 1.43%
+Historical highest quarterly growth: 8.75%
+Historical lowest quarterly growth: -8.24%
+Average quarterly GDP growth during 2023: 1.54%
+
+U.S. INFLATION:
+Historical starting inflation rate: 10.24%
+Historical ending inflation rate: 3.32%
+Historical highest inflation rate: 14.59%
+Historical lowest inflation rate: -2.99%
+January 2023 inflation: 6.33%
+December 2023 inflation: 3.32%
+Average inflation during 2023: 4.15%
+
+TASK:
+Use only the historical information above to forecast the overall
+direction of U.S. GDP growth and inflation during 2024.
+
+Possible forecast directions:
+- Increase
+- Decrease
+- Stable
+
+For each economic indicator, provide:
+1. Forecast direction
+2. Brief reason
+3. Confidence level: Low, Medium, or High
+
+Do not use information from 2024 when making the forecast.

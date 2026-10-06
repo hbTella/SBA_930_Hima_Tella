@@ -1,0 +1,15 @@
+
+Use the historical information below to forecast U.S. inflation.
+
+Historical information:
+- January 2023 inflation: 6.33%
+- December 2023 inflation: 3.32%
+- Average inflation during 2023: 4.15%
+- Inflation decreased during 2023.
+
+Choose exactly one:
+Increase
+Decrease
+Stable
+
+Answer with only one word.

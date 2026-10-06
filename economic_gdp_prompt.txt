@@ -1,0 +1,14 @@
+
+Use the historical information below to forecast U.S. GDP growth.
+
+Historical information:
+- Average GDP growth during 2023: 1.54%
+- Ending GDP growth in 2023: 1.43%
+- GDP growth was positive during 2023.
+
+Choose exactly one:
+Increase
+Decrease
+Stable
+
+Answer with only one word.

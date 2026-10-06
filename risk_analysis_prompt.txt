@@ -1,0 +1,28 @@
+
+You are a financial data analyst.
+
+Use the financial information below to identify potential financial risks.
+
+S&P 500:
+- Long-term historical change: +120.70%
+- 2023 change: +24.73%
+- Historical high: 4796.56
+- Historical low: 2085.18
+
+WTI Crude Oil:
+- Long-term historical change: +181.26%
+- 2023 change: -6.48%
+- Historical high: $145.31
+- Historical low: -$36.98
+
+Identify these three risks:
+1. Market volatility
+2. Credit risk
+3. Liquidity risk
+
+For each risk, provide:
+- Risk explanation
+- Evidence or reason for the risk
+- One practical mitigation strategy
+
+Keep the answer concise and use simple language.
